@@ -1,6 +1,6 @@
 # Hi 👋 Shwmae 👋 Hallo 👋
 
-Current MSc student at the University of Chester 
+Current MSc student at the University of Chester studying Advanced Cybersecurity.
 
 
 ## Current Working Projects
@@ -11,7 +11,7 @@ A custom offline music player built in C with a Raspberry Pi Pico 2 W.
 
 ### [Lego Battles Godot](https://github.com/henrylewis2004/lego-battles-godot)
 
-An online remake, in Godot, of the DS RTS video game Lego Battles from my childhoold; focusing on recreating as an online pvp RTS.
+An online remake, in Godot, of the DS RTS video game Lego Battles from my childhoold; focusing on recreating as an online PvP RTS.
 
 ## "Finished" projects
 
