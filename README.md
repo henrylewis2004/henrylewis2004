@@ -1,4 +1,4 @@
-# Henry
+# 👋 Hi, I'm Henry
 
 Current MSc student at the University of Chester studying Advanced Cybersecurity.
 
