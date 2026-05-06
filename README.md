@@ -13,6 +13,10 @@ A custom offline music player built in C with a Raspberry Pi Pico 2 W.
 
 An online remake, in Godot, of the DS RTS video game Lego Battles from my childhoold; focusing on recreating as an online PvP RTS.
 
+<p>
+    <img src="https://github.com/henrylewis2004/lego-battles-godot/blob/main/.github/images/start_splash.png" width=300 />
+</p>
+
 ## "Finished" projects
 
 ### [Code-Geass-SRPG](https://github.com/henrylewis2004/Code-Geass-SRPG)
