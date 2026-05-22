@@ -7,7 +7,11 @@ Current MSc student at the University of Chester studying Advanced Cybersecurity
 
 ### [Raspberry Pi Music Player](https://github.com/henrylewis2004/RaspberryPi-Music-Player)
 
-A custom offline music player built in C with a Raspberry Pi Pico 2 W.
+A homemade offline music player built in C with a Raspberry Pi Pico 2 W.
+
+<p>
+    <img src="https://github.com/henrylewis2004/RaspberryPi-Music-Player/blob/main/.github/images/breadboard_picture.jpg" width=300 />
+</p>
 
 ### [Lego Battles Godot](https://github.com/henrylewis2004/lego-battles-godot)
 
